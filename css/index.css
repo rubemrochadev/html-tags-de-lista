@@ -60,4 +60,10 @@ body{
     text-align: center;
 } */
 
+.lista {
+line-height: 2.1;
+}
 
+.lista li::marker{
+    color: #FAC600;
+}
